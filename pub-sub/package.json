@@ -1,0 +1,17 @@
+{
+  "name": "pub-sub",
+  "version": "1.0.0",
+  "description": "pub server for streaming app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ademola Raimi",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.3",
+    "express": "^3.0.0",
+    "redis": "^2.7.1",
+    "underscore": "^1.8.3"
+  }
+}
